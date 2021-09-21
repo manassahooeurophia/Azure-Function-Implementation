@@ -1,0 +1,10 @@
+C:\SERGEL\DLR Project\DLR\DLR_Sep\Container API\Sergel.DeliveryReportAPI\Sergel.DeliveryReport.DataAccess\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\SERGEL\DLR Project\DLR\DLR_Sep\Container API\Sergel.DeliveryReportAPI\Sergel.DeliveryReport.DataAccess\bin\Debug\netcoreapp3.0\Cosmos.CRTCompat.dll
+C:\SERGEL\DLR Project\DLR\DLR_Sep\Container API\Sergel.DeliveryReportAPI\Sergel.DeliveryReport.DataAccess\bin\Debug\netcoreapp3.0\Sergel.DeliveryReport.DataAccess.deps.json
+C:\SERGEL\DLR Project\DLR\DLR_Sep\Container API\Sergel.DeliveryReportAPI\Sergel.DeliveryReport.DataAccess\bin\Debug\netcoreapp3.0\Sergel.DeliveryReport.DataAccess.dll
+C:\SERGEL\DLR Project\DLR\DLR_Sep\Container API\Sergel.DeliveryReportAPI\Sergel.DeliveryReport.DataAccess\bin\Debug\netcoreapp3.0\Sergel.DeliveryReport.DataAccess.pdb
+C:\SERGEL\DLR Project\DLR\DLR_Sep\Container API\Sergel.DeliveryReportAPI\Sergel.DeliveryReport.DataAccess\obj\Debug\netcoreapp3.0\Sergel.DeliveryReport.DataAccess.csprojAssemblyReference.cache
+C:\SERGEL\DLR Project\DLR\DLR_Sep\Container API\Sergel.DeliveryReportAPI\Sergel.DeliveryReport.DataAccess\obj\Debug\netcoreapp3.0\Sergel.DeliveryReport.DataAccess.AssemblyInfoInputs.cache
+C:\SERGEL\DLR Project\DLR\DLR_Sep\Container API\Sergel.DeliveryReportAPI\Sergel.DeliveryReport.DataAccess\obj\Debug\netcoreapp3.0\Sergel.DeliveryReport.DataAccess.AssemblyInfo.cs
+C:\SERGEL\DLR Project\DLR\DLR_Sep\Container API\Sergel.DeliveryReportAPI\Sergel.DeliveryReport.DataAccess\obj\Debug\netcoreapp3.0\Sergel.DeliveryReport.DataAccess.dll
+C:\SERGEL\DLR Project\DLR\DLR_Sep\Container API\Sergel.DeliveryReportAPI\Sergel.DeliveryReport.DataAccess\obj\Debug\netcoreapp3.0\Sergel.DeliveryReport.DataAccess.pdb

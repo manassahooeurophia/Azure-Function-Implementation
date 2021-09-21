@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.51
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sergel.DeliveryReport.Api", "Sergel.DeliveryReport.Api\Sergel.DeliveryReport.Api.csproj", "{72137AFA-557F-4E30-88BB-212410C51931}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sergel.DeliveryReport.DataAccess", "Sergel.DeliveryReport.DataAccess\Sergel.DeliveryReport.DataAccess.csproj", "{19AF7E68-0985-491E-A128-64906DF733D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72137AFA-557F-4E30-88BB-212410C51931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72137AFA-557F-4E30-88BB-212410C51931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72137AFA-557F-4E30-88BB-212410C51931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72137AFA-557F-4E30-88BB-212410C51931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19AF7E68-0985-491E-A128-64906DF733D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AF7E68-0985-491E-A128-64906DF733D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AF7E68-0985-491E-A128-64906DF733D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AF7E68-0985-491E-A128-64906DF733D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {729EB547-A60A-41B9-B6BD-1A28FD560AEF}
+	EndGlobalSection
+EndGlobal
